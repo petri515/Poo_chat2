@@ -13,6 +13,7 @@ public class Chat_poo2 {
     /**
      * 1.Hola
      * 2.ADIOS
+     * 3.ayuda plis
      */
     public static void main(String[] args) {
         // TODO code application logic here
